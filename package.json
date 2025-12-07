@@ -1,0 +1,15 @@
+{
+  "name": "thingspeak-proxy",
+  "version": "1.0.0",
+  "description": "Simple proxy for ThingSpeak API to return plain values",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "keywords": ["thingspeak", "proxy", "arduino"],
+  "author": "",
+  "license": "MIT"
+}
